@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# CastingTask", "C# CastingTask.csproj", "{340F70C7-836C-4052-964B-596EBB6649F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{69914848-C6AC-4EB6-B15D-CBBAE628EF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340F70C7-836C-4052-964B-596EBB6649F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340F70C7-836C-4052-964B-596EBB6649F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340F70C7-836C-4052-964B-596EBB6649F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340F70C7-836C-4052-964B-596EBB6649F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69914848-C6AC-4EB6-B15D-CBBAE628EF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69914848-C6AC-4EB6-B15D-CBBAE628EF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69914848-C6AC-4EB6-B15D-CBBAE628EF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69914848-C6AC-4EB6-B15D-CBBAE628EF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B966EC7F-7B57-42DE-BC34-29B81D975F1A}
+	EndGlobalSection
+EndGlobal
